@@ -11,7 +11,7 @@ const port = 8900;
 // const uri = "mongodb+srv://client:client2021@cluster0.40etm.mongodb.net/DB-1?retryWrites=true&w=majority";
 // const uri = "mongodb+srv://poonamkamath78:zomatoclone12@zomato.nbtigxy.mongodb.net/zomato?retryWrites=true&w=majority"
 
-//This is a test comment fro github
+
 const uri = "mongodb+srv://Zoufisha:Zoufi2021@cluster0.40etm.mongodb.net/DB-1?retryWrites=true&w=majority";
 
 const app = express();
